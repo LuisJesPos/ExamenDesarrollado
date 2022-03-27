@@ -1,0 +1,9 @@
+Para conectar la BD copiar la cadena de conexion
+de la ruta donde se ejecuta el servidor de sql y la
+bd en el archivo appsettings.json.
+
+El login es por autenticacion de windows.
+
+Adjunte imagenes del funcionamiento del sistema en caso
+exista algun daño al momento de subirlo al repositorio.
+
